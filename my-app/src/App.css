@@ -1,0 +1,19 @@
+.App {
+ text-align: center;
+ margin: auto;
+ width: 60%;
+}
+
+.App ul,li{
+list-style: none;
+font-size: 20px;
+margin: 0;
+
+}
+
+.App li {
+  display: inline-block;
+  width: auto;
+  list-style: outside none none;
+  padding: 10px;
+}
